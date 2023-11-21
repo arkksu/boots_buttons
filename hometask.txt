@@ -1,0 +1,11 @@
+У меня сначала hat вливалась в master, потом создавалась ветка с boots и buttons и вливалась в master
+А в demo вливалась hat, потом boots, а после вливалась buttons
+
+
+4 моих:
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+и 6 изначальных
